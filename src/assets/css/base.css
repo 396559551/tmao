@@ -1,0 +1,12 @@
+@import "./normalize.css";
+
+/*伪类选择器*/
+:root {
+    --color-text: #666;
+    --color-high-text: #ff577;
+    --color-text: #ff8198;
+    --color-background: #fff;
+    --font-size: 14px;
+    --line-height: 1.5;
+}
+
